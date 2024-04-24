@@ -1,0 +1,1 @@
+To reproduce Efros & Leung 1999 (the reference will be uploaded with the assignment) with the assigned textures. You can also apply the method to other images you are interested in. Further, you may want to try if you can use this method to generate MNIST digits by scaling it up. 
